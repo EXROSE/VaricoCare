@@ -1,0 +1,7 @@
+{
+  "name": "VaricoCare – Varicocele Health & Recovery",
+  "description": "A comprehensive production-ready platform for varicocele management, featuring AI lab analysis, personalized recovery plans, and a medical supplement store.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
